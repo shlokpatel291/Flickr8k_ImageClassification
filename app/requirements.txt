@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+torch
+torchvision
+mlflow
+Pillow
+pytest
+requests
+h5py
